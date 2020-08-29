@@ -1,0 +1,59 @@
+.content{
+    
+}
+
+.content-title{
+    font-size: 4.5vh;
+    marker: 5px;
+    padding: 5px;
+    height: 10px;
+}
+
+.color{
+    color: darkgrey;
+}
+
+.content-body{
+    display: flex;
+    flex-flow: row;
+}
+
+.content-type{
+    display: flex;
+    align-items: center;
+    display: block;
+    width: 45%;
+    text-align: start;
+}
+
+.content-num{
+    width:55%;
+    font-size: 34vh;
+    line-height: 33vh;
+    text-align: end;
+}
+
+.content-type-mbs{
+    font-size: 10vh;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.pause{
+    border-radius: 35px;
+    border: solid 2px #3ad22d; 
+    font-size: 3em !important;
+    cursor: pointer;
+    margin-left: 61px;
+    margin-top: 18px;
+}
+
+.show-more{
+    margin-top: 74px;
+    padding: 7px;
+    font-size: 17px;
+    background: white;
+    border: solid 1px;
+    color: darkgray;
+    border-radius: 9px;
+}
